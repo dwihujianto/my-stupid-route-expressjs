@@ -1,0 +1,11 @@
+{
+  "name": "my-express-router",
+  "version": "1.0.0",
+  "description": "My express macem macem router",
+  "main": "app.js",
+  "author": "Dwi Hujianto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
